@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Summoning",
+  "Author": "Tyler",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 0,
+    "PatchVersion": 0,
+    "Build": ""
+  },
+  "MinimumApiVersion": "",
+  "Description": "My mod description.",
+  "UniqueID": "c4d58988-5c21-4133-b28a-c4b7448755ab",
+  "EntryDll": "Summoning.dll"
+}
