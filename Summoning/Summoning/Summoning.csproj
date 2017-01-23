@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extensions.cs" />
     <Compile Include="NPCFollower.cs" />
     <Compile Include="SlimeMinion.cs" />
     <Compile Include="Summoning.cs" />
